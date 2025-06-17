@@ -7,4 +7,7 @@ REBASE:
 2. Rebasing applies your changes directly on top of the target branch, resulting in a cleaner, linear history.
 3. Unlike merging, which creates a new merge commit to combine branches.
 
+Syntax:
+-> git checkout <feature-branch>
+-> git rebase <base-branch>
 
