@@ -3,6 +3,6 @@ This demo file for practice
 In master branch
 -----------
 Rebasing applies your changes directly on top of the target branch, resulting in a cleaner, linear history.
-
+Unlike merging, which creates a new merge commit to combine branches.
 
 
