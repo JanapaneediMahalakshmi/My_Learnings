@@ -2,6 +2,8 @@ Merge conflicts topic
 This demo file for practice
 In master branch
 -----------
+REBASE:
+Rebasing in GitHub is a process that allows you to move or combine a sequence of commits from one branch onto another, effectively rewriting the commit history
 Rebasing applies your changes directly on top of the target branch, resulting in a cleaner, linear history.
 Unlike merging, which creates a new merge commit to combine branches.
 
