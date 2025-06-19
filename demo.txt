@@ -10,4 +10,7 @@ REBASE:
 Syntax:
 -> git checkout <feature-branch>
 -> git rebase <base-branch>
+-> git rebase --continue
+-> git rebase --skip
+-> git rebase --abort
 
