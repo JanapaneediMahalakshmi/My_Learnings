@@ -10,3 +10,8 @@ REBASE:
 Syntax:
 -> git checkout <feature-branch>
 -> git rebase <base-branch>
+
+-----------
+
+STASH:
+Git command that allows you to temporarily save your uncommitted changes,and work on something.
