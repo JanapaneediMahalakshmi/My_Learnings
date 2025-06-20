@@ -15,3 +15,7 @@ Syntax:
 
 STASH:
 Git command that allows you to temporarily save your uncommitted changes,and work on something.
+-> git stash - Stash your changes
+-> git stash push -m "message" - Stash with a message
+-> git stash list - List all stashes
+-> git stash branch <branchname> - Create a branch from a stash
