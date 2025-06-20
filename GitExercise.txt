@@ -1,0 +1,10 @@
+GIT BEST PRACTICES:
+
+- Commit Often
+- Write Clear Commit Messages
+- Use Branches
+- Pull Before You Push
+- Review Changes Before Committing
+- Keep Repositories Small
+- Use .gitignore
+

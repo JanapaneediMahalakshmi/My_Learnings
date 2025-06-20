@@ -46,7 +46,19 @@
 ## 7. Merge Conflicts
 - What are merge conflicts?
 - How to resolve them
+- Scenarios on merge conflicts
 
-## 8. Practice
+## 8. Git Stash
+- What is Git stash
+- Practice stashing
+
+## 9. Advanced topics 
+- Cherrypick
+- Rebase
+- Revert
+- Git hooks
+- Git submodules
+
+## 10. Practice
 - Use Git commands regularly
 - Prepare notes for quick reference
