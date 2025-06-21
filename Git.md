@@ -48,17 +48,16 @@
 - How to resolve them
 - Scenarios on merge conflicts
 
-## 8. Git Stash
-- What is Git stash
-- Practice stashing
+## 8. Rebase
 
-## 9. Advanced topics 
-- Cherrypick
-- Rebase
+## 9. Advanced topics
+- Cherrypick 
 - Revert
+- Stash
 - Git hooks
 - Git submodules
 
 ## 10. Practice
 - Use Git commands regularly
 - Prepare notes for quick reference
+- Practiced scenarios 
