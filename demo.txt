@@ -1,7 +1,7 @@
 MERGE CONFLICTS:
--> When Git cannot automatically merge changes, it will prompt you to resolve conflicts manually. 
+-> When Git cannot automatically merge changes, it will prompt you to resolve conflicts manually.
 -> Edit the conflicting files, then add and commit them
--> This typically happens during a merge operation. 
+-> This typically happens during a merge or rebase operation.
 
 -----------
 REBASE:
