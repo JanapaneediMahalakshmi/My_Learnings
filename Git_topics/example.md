@@ -1,1 +1,0 @@
-Sample test md file to check merge conflict.
