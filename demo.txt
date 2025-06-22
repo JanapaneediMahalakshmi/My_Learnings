@@ -1,6 +1,8 @@
-Merge conflicts topic
-This demo file for practice
-In master branch
+MERGE CONFLICTS:
+-> When Git cannot automatically merge changes, it will prompt you to resolve conflicts manually.
+-> Edit the conflicting files, then add and commit them
+-> This typically happens during a merge or rebase operation.
+
 -----------
 REBASE:
 -> Rebasing in GitHub is a process that allows you to move or combine a sequence of commits from one branch onto another, effectively rewriting the commit history
