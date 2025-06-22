@@ -22,5 +22,5 @@ Git command that allows you to temporarily save your uncommitted changes,and wor
 -> git stash list - List all stashes
 -> git stash branch <branchname> - Create a branch from a stash
 
-CHERRYPICK:
-Cherry-picking allows you to apply a specific commit from one branch to another.
+Cherrypick:
+Cherry-pick allows you to apply a specific commit from one branch to another.
