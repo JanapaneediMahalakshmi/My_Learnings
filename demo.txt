@@ -21,3 +21,6 @@ Git command that allows you to temporarily save your uncommitted changes,and wor
 -> git stash push -m "message" - Stash with a message
 -> git stash list - List all stashes
 -> git stash branch <branchname> - Create a branch from a stash
+
+Cherrypick:
+Cherry-picking allows you to apply a specific commit from one branch to another.
