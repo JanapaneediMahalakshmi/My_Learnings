@@ -34,4 +34,5 @@ Merging combines changes from one branch into another.You can merge a feature br
 - Again checkout to main branch and delete the file created and checkout to feature branch.
 - we will the conflict while merging the main branch.
 - Resolve the merge conflict by choosing to either keep, delete, or manually edit the file.
+
 ![Another Scenario](Assets/git_merge5.jpg)
